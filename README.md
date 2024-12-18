@@ -29,7 +29,7 @@
   
 - Método de ataque: ``` Site Cloner ```
   
-  ![Alt text](./passwd.png "Optional title")
+  ![Alt text](./site_cloner.png "Optional title")
   
 - Obtendo o endereço da máquina: ``` ifconfig ```
   
@@ -74,7 +74,7 @@
   
 - Attack method: ``` Site Cloner ```
   
-  ![Alt text](./passwd.png "Optional title")
+  ![Alt text](./site_cloner.png "Optional title")
   
 - Getting the machine address: ``` ifconfig ```
   
