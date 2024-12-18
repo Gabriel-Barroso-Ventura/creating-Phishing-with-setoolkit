@@ -33,11 +33,11 @@
   
 - Obtendo o endereço da máquina: ``` ifconfig ```
   
-  ![Alt text](./passwd.png "Optional title")
+  ![Alt text](./ifconfig.png "Optional title")
   
 - URL para clone: http://www.facebook.com
   
-  ![Alt text](./passwd.png "Optional title")
+  ![Alt text](./URL_adding.png "Optional title")
 
 ### Resutados
 
@@ -78,11 +78,11 @@
   
 - Getting the machine address: ``` ifconfig ```
   
-  ![Alt text](./passwd.png "Optional title")
+  ![Alt text](./ifconfig.png "Optional title")
   
 - URL to clone: http://www.facebook.com
   
-  ![Alt text](./passwd.png "Optional title")
+  ![Alt text](./URL_adding.png "Optional title")
 
 ### Results
  
