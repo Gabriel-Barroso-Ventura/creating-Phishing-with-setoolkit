@@ -13,7 +13,7 @@
   
 - Iniciando o setoolkit: ``` setoolkit ```
  
-  ![Alt text](./passwd.png "Optional title")
+  ![Alt text](./setoolkit.png "Optional title")
   
 - Tipo de ataque: ``` Social-Engineering Attacks ```
   
@@ -58,7 +58,7 @@
 
 - Starting setoolkit: ``` setoolkit ```
  
-  ![Alt text](./passwd.png "Optional title")
+  ![Alt text](./setoolkit.png "Optional title")
 
 - Attack Type: ``` Social-Engineering Attacks ```
   
