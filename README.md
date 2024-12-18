@@ -9,7 +9,7 @@
 
 - Acesso root: ``` sudo su ```
   
-  ![Alt text](./passwd.png "Optional title")
+  ![Alt text](./sudo_su.png "Optional title")
   
 - Iniciando o setoolkit: ``` setoolkit ```
  
@@ -54,7 +54,7 @@
 
 - Root access: ``` sudo su ```
 
-  ![Alt text](./passwd.png "Optional title")
+  ![Alt text](./sudo_su.png "Optional title")
 
 - Starting setoolkit: ``` setoolkit ```
  
