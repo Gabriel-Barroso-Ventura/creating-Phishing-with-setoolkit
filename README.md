@@ -41,6 +41,10 @@
 
 ### Resutados
 
+- É importante ressaltar que soluções implementadas por navegadores modernos podem inviabilizar a captura de senhas e logins, para efetuar testes ainda se pode utilizar outra VM com windows e acessar a pagina através do explorer desatualizado, que não contenha essas soluções
+  
+![Alt text](./passwd.png "Optional title")
+  
 ![Alt text](./passwd.png "Optional title")
 
 # Phishing to capture Facebook passwords (EN-US)
@@ -85,5 +89,9 @@
   ![Alt text](./URL_adding.png "Optional title")
 
 ### Results
- 
+
+- It is important to note that solutions implemented by modern browsers may make it impossible to capture passwords and logins. To carry out tests, you can still use another VM with Windows and access the page through the outdated explorer, which does not contain these solutions.
+  
+  ![Alt text](./passwd.png "Optional title")
+  
   ![Alt text](./passwd.png "Optional title")
