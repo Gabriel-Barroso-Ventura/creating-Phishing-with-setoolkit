@@ -25,7 +25,7 @@
   
 - Método de ataque: ```Credential Harvester Attack Method ```
   
-  ![Alt text](./passwd.png "Optional title")
+  ![Alt text](./credential_harvest.png "Optional title")
   
 - Método de ataque: ``` Site Cloner ```
   
@@ -70,7 +70,7 @@
   
 - Attack method: ```Credential Harvester Attack Method ```
   
-  ![Alt text](./passwd.png "Optional title")
+  ![Alt text](./credential_harvest.png "Optional title")
   
 - Attack method: ``` Site Cloner ```
   
