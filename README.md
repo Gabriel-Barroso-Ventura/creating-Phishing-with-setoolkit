@@ -17,11 +17,11 @@
   
 - Tipo de ataque: ``` Social-Engineering Attacks ```
   
-  ![Alt text](./Engenharia_social.png "Optional title")
+  ![Alt text](./engenharia_social.png "Optional title")
   
 - Vetor de ataque: ``` Web Site Attack Vectors ```
   
-  ![Alt text](./passwd.png "Optional title")
+  ![Alt text](./website_attack.png "Optional title")
   
 - Método de ataque: ```Credential Harvester Attack Method ```
   
@@ -62,11 +62,11 @@
 
 - Attack Type: ``` Social-Engineering Attacks ```
   
-  ![Alt text](./Engenharia_social.png "Optional title")
+  ![Alt text](./engenharia_social.png "Optional title")
 
 - Attack vector: ``` Web Site Attack Vectors ```
   
-  ![Alt text](./passwd.png "Optional title")
+  ![Alt text](./website_attack.png "Optional title")
   
 - Attack method: ```Credential Harvester Attack Method ```
   
